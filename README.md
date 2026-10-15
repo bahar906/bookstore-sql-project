@@ -92,7 +92,7 @@ The database `OnlineBookstore` has 3 tables, one for each CSV file:
 ## 📸 Data Preview & Query Results
 
 ### Books Table Preview
-![Books table](books_preview.png)
+![Books table](books_preview.PNG)
 
 ### 1. Total books sold per genre
 ![Genre sales](genre_sales.png)
