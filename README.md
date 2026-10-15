@@ -84,13 +84,8 @@ The database `OnlineBookstore` has 3 tables, one for each CSV file:
 
 **How the tables connect:** each row in `Orders` points to one customer (`Customer_ID`) and one book (`Book_ID`).
 
-<!--
-ADD THIS LATER after you upload er_diagram.png to the repo.
-Then remove the comment markers around the image below.
-
 ### Entity Relationship Diagram
 ![ER Diagram](er_diagram.png)
--->
 
 ---
 
