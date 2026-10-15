@@ -179,10 +179,10 @@ ORDER BY b.book_id;
 
 > Replace these with your real findings after running the queries.
 
-- Best-selling genre: **_____**
-- Top customer by spending: **_____**
-- Most frequently ordered book: **_____**
-- Total revenue: **$_____**
+- Best-selling genre: **Romance**
+- Top customer by spending: **Kim Turner**
+- Most frequently ordered book: **Robust tangible hardware**
+- Total revenue: **75628.66**
 
 ---
 
