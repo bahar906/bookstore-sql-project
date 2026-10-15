@@ -89,6 +89,26 @@ The database `OnlineBookstore` has 3 tables, one for each CSV file:
 
 ---
 
+## 📸 Data Preview & Query Results
+
+### Books Table Preview
+![Books table](books_preview.png)
+
+### 1. Total books sold per genre
+![Genre sales](genre_sales.png)
+
+### 2. Customer who spent the most
+![Top customer](top_customer.png)
+
+### 3. Most frequently ordered book
+![Most ordered book](most_ordered_book.png)
+
+### 4. Remaining stock after all orders
+![Remaining stock](remaining_stock.png)
+
+### 5. Total revenue
+![Total revenue](total_revenue.png)
+
 ## ▶️ How to Run This Project
 
 1. Install **PostgreSQL** and **pgAdmin**.
@@ -177,7 +197,6 @@ ORDER BY b.book_id;
 
 ## 📈 Key Insights
 
-> Replace these with your real findings after running the queries.
 
 - Best-selling genre: **Romance**
 - Top customer by spending: **Kim Turner**
@@ -199,14 +218,6 @@ ORDER BY b.book_id;
 
 ---
 
-## 🚀 Future Improvements
-
-- Add screenshots of query results
-- Add monthly sales trend analysis
-- Use window functions (`RANK`, `ROW_NUMBER`)
-- Build a Power BI / Tableau dashboard on top of this data
-
----
 
 ## 👤 Author
 
