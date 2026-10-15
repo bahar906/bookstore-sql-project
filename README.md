@@ -95,19 +95,19 @@ The database `OnlineBookstore` has 3 tables, one for each CSV file:
 ![Books table](books_preview.PNG)
 
 ### 1. Total books sold per genre
-![Genre sales](genre_sales.png)
+![Genre sales](genre_sales.PNG)
 
 ### 2. Customer who spent the most
-![Top customer](top_customer.png)
+![Top customer](top_customer.PNG)
 
 ### 3. Most frequently ordered book
-![Most ordered book](most_ordered_book.png)
+![Most ordered book](most_ordered_book.PNG)
 
 ### 4. Remaining stock after all orders
-![Remaining stock](remaining_stock.png)
+![Remaining stock](remaining_stock.PNG)
 
 ### 5. Total revenue
-![Total revenue](total_revenue.png)
+![Total revenue](total_revenue.PNG)
 
 ## ▶️ How to Run This Project
 
